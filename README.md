@@ -42,3 +42,6 @@ pip install -r requirements.txt
 python3 run_demo.py
 python3 run_tests.py
 ```
+
+Dashboard: https://franchise-royalty-self-reporting-aggrega.vokrix.co
+Vercel: franchise-royalty-self-reporting-aggrega
