@@ -45,3 +45,4 @@ python3 run_tests.py
 
 Dashboard: https://franchise-royalty-self-reporting-aggrega.vokrix.co
 Vercel: franchise-royalty-self-reporting-aggrega
+Railway: franchise-royalty-self-reporting-aggrega
