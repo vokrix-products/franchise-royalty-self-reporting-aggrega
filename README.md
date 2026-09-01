@@ -49,3 +49,5 @@ Railway: franchise-royalty-self-reporting-aggrega
 Cloudflare: franchise-royalty-self-reporting-aggrega.vokrix.co
 
 Billing: price_1UAqWM2c9uGCcgMSBOwWkB6o
+
+Landing: https://vokrix.co/franchise-royalty-self-reporting-aggrega
